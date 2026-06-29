@@ -216,5 +216,4 @@ for(const country in data){
 }
 </script>
 </body>
-</html># IronRavenRecords
-IronRavenRecords, Independent Metal bands arround the World
+</html>
